@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bryan</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">I am passionate about software testing from Colombia</h3>
 
-- 🌱 I’m currently learning **Angular, NodeJs, and frontend technologies**
+- 🌱 I’m currently test analyst
 
-- 👨‍💻 All of my projects are available at [https://bry4n4rias.github.io/portafolio//](https://bry4n4rias.github.io/portafolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
